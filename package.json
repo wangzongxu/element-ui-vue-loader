@@ -1,0 +1,16 @@
+{
+  "name": "element-ui-vue-loader",
+  "version": "0.1.0",
+  "description": "load the element-ui component as needed",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "dependencies": {
+    "@babel/generator": "^7.3.2",
+    "@babel/parser": "^7.3.2",
+    "@babel/traverse": "^7.2.3",
+    "@babel/types": "^7.3.2"
+  },
+  "author": "wangzongxu",
+  "license": "MIT"
+}
