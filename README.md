@@ -2,7 +2,7 @@
 
 用于在vue文件中自动按需加载Element-ui组件的webpack loader
 
-## 用法
+## 用法
 
 ```js
 // webpack.config.js
